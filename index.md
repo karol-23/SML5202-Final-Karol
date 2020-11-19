@@ -2,8 +2,8 @@
 <div class="row">
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="images/mapspain.jpg">
-        <img src="images/mapspain.jpg" alt="Lights" style="width:100%">
+      <a href="images/mapspain(1).jpg">
+        <img src="images/mapspain(1).jpg" alt="Lights" style="width:100%">
         <div class="caption">
           <p>El mapa de España / The map of Spain.</p>
         </div>
@@ -12,8 +12,8 @@
   </div>
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="images/espanol.jpg">
-        <img src="images/espanol.jpg" alt="Nature" style="width:100%">
+      <a href="images/espanol(1).jpg">
+        <img src="images/espanol(1).jpg" alt="Nature" style="width:100%">
         <div class="caption">
           <p></p>
         </div>
@@ -22,8 +22,8 @@
   </div>
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="images/spain.jpeg">
-        <img src="images/spain.jpeg" alt="Fjords" style="width:100%">
+      <a href="images/spain.jpg">
+        <img src="images/spain.jpg" alt="Fjords" style="width:100%">
         <div class="caption">
           <p>Esto es Parc Güell en Barcelona que Gaudí ha diseñado. / This is Parc Güell in Barcelona that Gaudí had designed.</p>
         </div>

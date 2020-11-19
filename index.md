@@ -34,7 +34,7 @@
  
 <h2> Introduction </h2> 
  
-<iframe width="713" height="401" src="https://www.youtube.com/embed/o_XVt5rdpFY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>">
+<iframe width="713" height="401" src="https://www.youtube.com/embed/o_XVt5rdpFY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   
 <p> Hi. My name is Karol and this is my experimental site for course module <b> SML5202 </b> </p>
@@ -44,7 +44,8 @@
     <li> My favourite colour is red </li>
     <li> Sport and literature are the best outlets for me </li>
  </ol>
-    <p> One of my favourite language learning websites is <a href="https://www.linguee.com/english-portuguese" target="_blank">Linguee</a> </p>
+    
+ <p> One of my favourite language learning websites is <a href="https://www.linguee.com/english-portuguese" target="_blank">Linguee</a> </p>
 
 
  

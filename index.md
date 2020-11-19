@@ -90,6 +90,7 @@
         <td>Amaron</td>
         <td>Amarán</td>
          </tr>
+      <tr>
         <td>Amás</td>
         <td>Amaste</td>
         <td>Amarás</td>

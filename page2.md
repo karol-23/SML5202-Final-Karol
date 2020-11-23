@@ -1,7 +1,7 @@
 <h1> Grammar</h1>
+<p> Grammar is the whole system and structure of a language or of languages in general, usually taken as consisting of syntax and morphology (including inflections) and sometimes also phonology and semantics.
 
-
-  <h2>Conjugation Table</h2>
+  <h3>Conjugation Table</h3>
   <p>The conjugation of AR verb "Amar" in the present, preterite and future tenses:</p>            
   <table class="table table-striped">
     <thead>

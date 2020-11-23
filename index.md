@@ -1,4 +1,4 @@
-<h1 >Welcome</h1>
+<h1 >Welcome!</h1>
 <div class="row">
   <div class="col-md-4">
     <div class="thumbnail">
@@ -15,7 +15,7 @@
       <a href="images/espanol (1).jpg">
         <img src="images/espanol (1).jpg" alt="Nature" style="width:100%">
         <div class="caption">
-          <p></p>
+          <p> Estas listo para aprender? / Are you ready to learn? </p>
         </div>
       </a>
     </div>
@@ -32,69 +32,26 @@
   </div>
 </div>
  
-<h2> Introduction </h2> 
+<h1> Introduction </h1> 
+<h2> Why study a language with us?</h2>
+
+<p> <i> At [website name] we believe that in the face of globalisation and advanced technology, it is becoming more and more imperative to understand one or more languages. Not only does it increase job prospects but it also broadens your social horizons. The language learning process is full of surprises. One might not expect it but learning a language is not just about grammar rules and how good your pronounciation is. It is also about the country's history, the culture, the gastronomy and it's people. </i> </p>
+
  
 <iframe width="713" height="401" src="https://www.youtube.com/embed/o_XVt5rdpFY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-  
-<p> Hi. My name is Karol and this is my experimental site for course module <b> SML5202 </b> </p>
+ 
+<h2> About the creator </h2>
+<p> My name is Karol Visentin Lemes and I created this website with the aims of not only teaching you Spanish but to hopefully spark a love for language learning. <b> SML5202 </b> </p>
    <p> Here are three facts about me:</p>
    <ol>
-    <li> I was born in Brazil </li>
-    <li> My favourite colour is red </li>
-    <li> Sport and literature are the best outlets for me </li>
+    <li> I'm twenty years old </li>
+    <li> I speak Spanish and Portguese. </li>
+    <li> I'm learning Japanese </li>
  </ol>
     
- <p> One of my favourite language learning websites is <a href="https://www.linguee.com/english-portuguese" target="_blank">Linguee</a> </p>
+ <p> One of my favourite language learning websites is <a href="https://www.linguee.com/english-spanish" target="_blank">Linguee</a> and <a href="https://www.wordreference.com/es/translation.asp" target="_blank">WordReference</a>  </p>
 
 
- 
-  <h2>Conjugation Table</h2>
-  <p>The conjugation of AR verb "Amar" in the present, preterite and future tenses:</p>            
-  <table class="table table-striped">
-    <thead>
-      <tr>
-        <th>Presente</th>
-        <th>Preterito</th>
-        <th>Futuro</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Amo</td>
-        <td>Amé</td>
-        <td>Amaré</td>
-      </tr>
-      <tr>
-        <td>Amas</td>
-        <td>Amaste</td>
-        <td>Amarás</td>
-      </tr>
-      <tr>
-        <td>Ama</td>
-        <td>Amó</td>
-        <td>Amará</td>
-      </tr>
-       <tr>
-        <td>Amamos</td>
-        <td>Amamos</td>
-        <td>Amaremos</td>
-      </tr>
-      <tr>
-        <td>Amáis</td>
-        <td>Amasteis</td>
-        <td>Amaréis</td>
-         </tr>
-         <tr>
-        <td>Aman</td>
-        <td>Amaron</td>
-        <td>Amarán</td>
-         </tr>
-      <tr>
-        <td>Amás</td>
-        <td>Amaste</td>
-        <td>Amarás</td>
-         </tr>
-    </tbody>
-  </table>
+
 

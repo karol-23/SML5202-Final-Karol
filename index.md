@@ -43,7 +43,7 @@
  
 <h2> About the creator </h2>
 
-<p> <i> My name is Karol Visentin Lemes and I created this website with the aims of not only teaching you Spanish but to hopefully spark a love for language learning. As a language learner myself, I created this website to help but it most definitely isn't the be all and end all of Spanish. Language is learnt through experience so if there is one piece of advice I could give, it would be to take every opportunity you get to practise the language you're learning no matter how scary it may seem!  </p>
+<p> <i> My name is Karol Visentin Lemes and I created this website with the aims of not only teaching you Spanish but to hopefully spark a love for language learning. As a language learner myself, I created this website to help but it most definitely isn't the be all and end all of Spanish. Language is learnt through experience so if there is one piece of advice I could give, it would be to take every opportunity you get to practise the language you're learning no matter how scary it may seem!</p>
    <p> Here are three facts about me:</p>
    <ol>
     <li> I am multilingual. I speak Portuguese, Spanish and English. </li>

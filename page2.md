@@ -1,9 +1,11 @@
 <h1> Grammar</h1>
 <p> Grammar is the whole system and structure of a language or of languages in general, usually taken as consisting of syntax and morphology (including inflections) and sometimes also phonology and semantics.
+  
+<br>
+<img src='images/alphabet.png' alt='alphabet.png' width="635" height="999" >
+<br>
 
-<img src='images/alphabet.png' alt='alphabet.png' width="735" height="1101" >
-
-  <h3>Conjugation Table</h3>
+  <h3>Conjugation Tables</h3>
   <p>The conjugation of AR verb "Amar" in the present, preterite and future tenses:</p>            
   <table class="table table-striped">
     <thead>

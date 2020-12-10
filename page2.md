@@ -1,5 +1,5 @@
 <h1> <b>Grammar</b></h1>
-<p> Grammar is the whole system and structure of a language or of languages in general, usually taken as consisting of syntax and morphology (including inflections) and sometimes also phonology and semantics.
+<p> Grammar is the whole system and structure of a language or of languages in general, usually taken as consisting of syntax and morphology (including inflections) and sometimes also phonology and semantics. This page is to help you familarise with the most common tenses as well as the spanish alphabet which has a few extra letters.
   
 <br>
 <p style="margin: auto; width: 50%; border: 2px solid red;  padding: 10px;">

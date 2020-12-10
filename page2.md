@@ -2,7 +2,7 @@
 <p> Grammar is the whole system and structure of a language or of languages in general, usually taken as consisting of syntax and morphology (including inflections) and sometimes also phonology and semantics.
   
 <br>
-<img src='images/alphabet.png' alt='alphabet.png' width="635" height="999" >
+<img src='images/alphabet.png' alt='alphabet.png' width="535" height="888" >
 <br>
 
   <h3>Conjugation Tables</h3>

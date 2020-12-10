@@ -6,13 +6,13 @@
 <br>
 
   <h3>Conjugation Tables</h3>
-  <p>The conjugation of AR verb "Amar" in the present, preterite and future tenses:</p>            
+   <p>The conjugation of AR verb "Amar" in the present, preterite and simple future tenses:</p>            
   <table class="table table-striped">
     <thead>
       <tr>
-        <th>Presente</th>
-        <th>Preterito</th>
-        <th>Futuro</th>
+        <th>presente</th>
+        <th>preterito</th>
+        <th> futuro </th>
       </tr>
     </thead>
     <tbody>
@@ -53,3 +53,44 @@
          </tr>
     </tbody>
   </table>
+  
+  <p>The conjugation of AR verb "Amar" in the preterite and conditional tenses:</p>            
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Imperfecto</th>
+        <th>Conditional</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>amaba</td>
+        <td>amaría</td>
+      </tr>
+      <tr>
+        <td>amabas</td>
+        <td>amarías</td>
+      </tr>
+      <tr>
+        <td>amaba</td>
+        <td>amaría</td>
+      </tr>
+       <tr>
+        <td>amábamos</td>
+        <td>amaríamos</td>
+      </tr>
+      <tr>
+        <td>amabais</td>
+        <td>amaríais</td>
+         </tr>
+         <tr>
+        <td>amaban</td>
+        <td>amarían</td>
+         </tr>
+      <tr>
+        <td>amabas</td>
+        <td>amarías</td>
+         </tr>
+    </tbody>
+  </table>
+  

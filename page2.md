@@ -4,9 +4,10 @@
 <br>
 <p style="margin: auto; width: 50%; border: 2px solid red;  padding: 10px;">
 <img src="images/alphabet.png" alt="alphabet.png" style="width:100%;">
+</p>
+<p style="margin: auto; width: 50%; border: 2px solid red;  padding: 10px;">
 <img src="images/alphabetCont.png" alt="alphabetCont.png" style="width:100%;">
 </p>
-
 
   <h3>Conjugation Tables</h3>
    <p>The conjugation of AR verb "Amar" in the present, preterite and simple future tenses:</p>      

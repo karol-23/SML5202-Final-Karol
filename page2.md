@@ -16,6 +16,7 @@
   <table class="table table-striped">
     <thead>
       <tr>
+        <th>personal pronoun</th>
         <th>presente</th>
         <th>preterito</th>
         <th> futuro </th>
@@ -23,36 +24,43 @@
     </thead>
     <tbody>
       <tr>
+        <td> yo</td>
         <td>Amo</td>
         <td>Amé</td>
         <td>Amaré</td>
       </tr>
       <tr>
+         <td>tu</td>
         <td>Amas</td>
         <td>Amaste</td>
         <td>Amarás</td>
       </tr>
       <tr>
+         <td> el/ ella </td>
         <td>Ama</td>
         <td>Amó</td>
         <td>Amará</td>
       </tr>
        <tr>
+          <td>nosotros</td>
         <td>Amamos</td>
         <td>Amamos</td>
         <td>Amaremos</td>
       </tr>
       <tr>
+         <td>vosotros</td>
         <td>Amáis</td>
         <td>Amasteis</td>
         <td>Amaréis</td>
          </tr>
          <tr>
+        <td>ellos/ellas/ustedes </td>
         <td>Aman</td>
         <td>Amaron</td>
         <td>Amarán</td>
          </tr>
       <tr>
+         <td>vos</td>
         <td>Amás</td>
         <td>Amaste</td>
         <td>Amarás</td>
@@ -66,36 +74,44 @@
   <table class="table table-striped">
     <thead>
       <tr>
+         <th>personal pronoun</th>
         <th>Imperfecto</th>
         <th>Conditional</th>
       </tr>
     </thead>
     <tbody>
       <tr>
+        <td> yo</td>
         <td>amaba</td>
         <td>amaría</td>
       </tr>
       <tr>
+        <td>tu</td>
         <td>amabas</td>
         <td>amarías</td>
       </tr>
       <tr>
+        <td>el/ ella</td>
         <td>amaba</td>
         <td>amaría</td>
       </tr>
        <tr>
+        <td> nosotros </td>
         <td>amábamos</td>
         <td>amaríamos</td>
       </tr>
       <tr>
+        <td>vosotros</td>
         <td>amabais</td>
         <td>amaríais</td>
          </tr>
          <tr>
+        <td> ellos/ellas/ ustedes </td>
         <td>amaban</td>
         <td>amarían</td>
          </tr>
       <tr>
+        <td>vos</td>
         <td>amabas</td>
         <td>amarías</td>
          </tr>

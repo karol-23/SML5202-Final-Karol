@@ -12,7 +12,7 @@
 
   <h3>Conjugation Tables</h3>
    <p>The conjugation of AR verb "Amar" in the present, preterite and simple future tenses:</p>      
-   <div style="margin: auto; width: 70%; border: 2px solid gray;  padding: 10px;">
+   <div style="margin: auto; width: 70%; border: 2px solid red;  padding: 10px;">
   <table class="table table-striped">
     <thead>
       <tr>
@@ -62,7 +62,7 @@
   </div>
   
   <p>The conjugation of AR verb "Amar" in the preterite and conditional tenses:</p>            
-  <div style="margin: auto; width: 70%; border: 2px solid gray;  padding: 10px;">
+  <div style="margin: auto; width: 70%; border: 2px solid red;  padding: 10px;">
   <table class="table table-striped">
     <thead>
       <tr>

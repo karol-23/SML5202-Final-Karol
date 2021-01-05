@@ -5,6 +5,7 @@
 <p style="margin: auto; width: 50%; border: 2px solid red;  padding: 10px;">
 <img src="images/alphabet.png" alt="alphabet.png" style="width:100%;">
 </p>
+
 <p style="margin: auto; width: 50%; border: 2px solid red;  padding: 10px;">
 <img src="images/alphabetCont.png" alt="alphabetCont.png" style="width:100%;">
 </p>

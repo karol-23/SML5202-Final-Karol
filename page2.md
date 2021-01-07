@@ -11,7 +11,7 @@
 </p>
 
   <h3>How to Conjugate and Conjugation Tables</h3>
-  <p> To start you must know the personal pronouns in Spansih. There are 12 of them and they are generally the same with the exception of gender seperations and an additional pronoun 'you plural' which does not exist in English. See below the 12 personal pronouns and their translations;
+  <p> To start you must know the personal pronouns in Spansih. There are 12 of them and they are generally the same with the exception of gender seperations and two additional pronoun <strong>'you singular' and 'you plural' (useted/ustedes)</strong> which does not exist in English. As a Romance language, Spanish orders mixed gendered groups as <strong> masculine</strong> and all female groups as <strong>feminine</strong> . See below the 12 personal pronouns and their translations;
   <ol>
     <li>Yo — I </li>
    <li>Él — He </li>
@@ -27,6 +27,7 @@
    <li>Ustedes — You (plural, formal) </li>
 </ol>
   
+  <p> In the simplest of definitions, a conjugation is the modification of a verb so that it shows more information about an action. The information can include who does it, when and even sets a mood. Spanish conjugation sets a different ending for each personal pronoun and verb. This means that you don't need to use personal pronouns as it is already indicated via the conjugation unless you really want to emphasize who is doing the action. 
    <p>The conjugation of AR verb "Amar" in the present, preterite and simple future tenses:</p>      
    <div style="margin: auto; width: 70%; border: 2px solid red;  padding: 10px;">
   <table class="table table-striped">

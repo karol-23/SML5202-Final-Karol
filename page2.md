@@ -10,7 +10,23 @@
 <img src="images/alphabetCont.PNG" alt="alphabetCont.PNG" style="width:100%;">
 </p>
 
-  <h3>Conjugation Tables</h3>
+  <h3>How to Conjugate and Conjugation Tables</h3>
+  <p> To start you must know the personal pronouns in Spansih. There are 12 of them and they are generally the same with the exception of gender seperations and an additional pronoun 'you plural' which does not exist in English. See below the 12 personal pronouns and their translations;
+  <ol>
+    <li>Yo — I </li>
+   <li>Él — He </li>
+   <li>Ella — She </li>
+   <li>Tú — You (singular, informal) </li>
+   <li>Usted — You (singular, formal) </li>
+   <li>Nosotros — We (all-male or mixed group) </li>
+   <li>Nosotras — We (all female) </li>
+   <li>Vosotros — You (plural, informal, all-male or mixed group) </li>
+   <li>Vosotras — You (plural, informal, all female) </li>
+   <li>Ellos — They (all-male or mixed group) </li>
+   <li>Ellas — They (all female) </li>
+   <li>Ustedes — You (plural, formal) </li>
+</ol>
+  
    <p>The conjugation of AR verb "Amar" in the present, preterite and simple future tenses:</p>      
    <div style="margin: auto; width: 70%; border: 2px solid red;  padding: 10px;">
   <table class="table table-striped">

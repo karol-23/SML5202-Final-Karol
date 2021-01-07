@@ -10,7 +10,7 @@
 <img src="images/alphabetCont.PNG" alt="alphabetCont.PNG" style="width:100%;">
 </p>
 
-  <h3>How to Conjugate and Conjugation Tables</h3>
+  <h3>Personal Pronouns</h3>
   <p> To start you must know the personal pronouns in Spansih. There are 12 of them and they are generally the same with the exception of gender seperations and two additional pronoun <strong>'you singular' and 'you plural' (useted/ustedes)</strong> which does not exist in English. As a Romance language, Spanish orders mixed gendered groups as <strong> masculine</strong> and all female groups as <strong>feminine</strong> . See below the 12 personal pronouns and their translations;
   <ol>
     <li>Yo — I </li>
@@ -26,9 +26,12 @@
    <li>Ellas — They (all female) </li>
    <li>Ustedes — You (plural, formal) </li>
 </ol>
+
+  <h3>How to Conjugate</h3>
+  <p> In the simplest of definitions, a conjugation is the modification of a verb so that it shows more information about an action. The information can include who does it, when and even sets a mood. Spanish conjugation sets a different ending for each personal pronoun and verb. This means that you don't need to use personal pronouns as it is already indicated via the conjugation unless you really want to emphasize who is doing the action. For more help, visit <a href="https://www.wordreference.com/conj/EsVerbs.aspx" target="_blank">WordReference Conjugation page</a>.
   
-  <p> In the simplest of definitions, a conjugation is the modification of a verb so that it shows more information about an action. The information can include who does it, when and even sets a mood. Spanish conjugation sets a different ending for each personal pronoun and verb. This means that you don't need to use personal pronouns as it is already indicated via the conjugation unless you really want to emphasize who is doing the action. 
-   <p>The conjugation of AR verb "Amar" in the present, preterite and simple future tenses:</p>      
+  <h3> Conjugation Tables</h3>
+  <p>The conjugation of AR verb "Amar" in the present, preterite and simple future tenses:</p>      
    <div style="margin: auto; width: 70%; border: 2px solid red;  padding: 10px;">
   <table class="table table-striped">
     <thead>

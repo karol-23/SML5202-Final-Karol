@@ -42,7 +42,7 @@
 
  
 <h2> <b>About The Creator </b> </h2>
-<img src='images/karol.jpg' alt='karol.jpg' width="250" height="250" >
+<img src='images/karol.jpg' alt='karol.jpg' width="450" height="450" >
 
 <p> <i> My name is Karol Visentin Lemes and I created this website with the aims of not only teaching you Spanish but to hopefully spark a love for language learning. As a language learner myself, I created this website to help but it most definitely isn't the be all and end all of Spanish. Language is learnt through experience so if there is one piece of advice I could give, it would be to take every opportunity you get to practise the language you're learning no matter how scary it may seem!
    <p> Here are three facts about me:</p>

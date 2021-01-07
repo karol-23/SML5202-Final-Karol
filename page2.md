@@ -30,7 +30,7 @@
   <h3>How to Conjugate</h3>
   <p> In the simplest of definitions, a conjugation is the modification of a verb so that it shows more information about an action. The information can include who does it, when and even sets a mood. Spanish conjugation sets a different ending for each personal pronoun and verb. This means that you don't need to use personal pronouns as it is already indicated via the conjugation unless you really want to emphasize who is doing the action. For more help, visit <a href="https://www.wordreference.com/conj/EsVerbs.aspx" target="_blank">WordReference Conjugation page</a>.</p>
   
-  <p> All infinitives end in either -AR -IR or -ER. These endings are the ones to focus on because they'll be the part that changes in a conjugation. Drop these endings and add the appropriate endings. <small><i>For example: the infinitive ESCRIBIR. If I wanted to say "we writes essays" it would be "escribimos ensayos". The ending of -IR is replaced by -IMOS.</i> </small> The -ER and -IR ending changes are usually the same or similar. <i> <smal> For example: Escribir and Comer, in the we pronoun would change to escribimos and comimos.</i> </small> However, as with most rules, not just grammar, there are exceptions and irregular verbs.</p>
+  <p> All infinitives end in either -AR -IR or -ER. These endings are the ones to focus on because they'll be the part that changes in a conjugation. Drop these endings and add the appropriate endings. <small><i>For example: the infinitive ESCRIBIR. If I wanted to say "we writes essays" it would be "escribimos ensayos". The ending of -IR is replaced by -IMOS.</i> </small> The -ER and -IR ending changes are usually the same or similar. <i> <small> For example: Escribir and Comer, in the we pronoun would change to escribimos and comimos.</i> </small> However, as with most rules, not just grammar, there are exceptions and irregular verbs.</p>
   
   <h3> Conjugation Tables</h3>
   <p>The conjugation of AR verb "Amar" in the present, preterite and simple future tenses:</p>      
@@ -47,15 +47,15 @@
     <tbody>
       <tr>
         <td> yo</td>
-        <td>Am<em>o</em></td>
-        <td>Am<em>é</em></td>
-        <td>Amar<em>é</em></td>
+        <td>Amo</td>
+        <td>Amé</td>
+        <td>Amaré</td>
       </tr>
       <tr>
          <td>tu</td>
-        <td>Am<em>as</em></td>
-        <td>Am<em>aste</em></td>
-        <td>Amar<em>ás</em></td>
+        <td>Amas</td>
+        <td>Amaste</td>
+        <td>Amarás</td>
       </tr>
       <tr>
          <td> el/ ella </td>

@@ -30,7 +30,11 @@
   <h3>How to Conjugate</h3>
   <p> In the simplest of definitions, a conjugation is the modification of a verb so that it shows more information about an action. The information can include who does it, when and even sets a mood. Spanish conjugation sets a different ending for each personal pronoun and verb. This means that you don't need to use personal pronouns as it is already indicated via the conjugation unless you really want to emphasize who is doing the action. For more help, visit <a href="https://www.wordreference.com/conj/EsVerbs.aspx" target="_blank">WordReference Conjugation page</a>.</p>
   
-  <p> All infinitives end in either -AR -IR or -ER. These endings are the ones to focus on because they'll be the part that changes in a conjugation. Drop these endings and add the appropriate endings.The -ER and -IR ending changes are usually the same or similar. <small><i>For example: the infinitive ESCRIBIR. If I wanted to say "we writes essays" it would be "escribimos ensayos". The ending of -IR is replaced by -IMOS. For example: Escribir and Comer, in the we pronoun would change to escribimos and comimos.</i> </small> However, as with most rules, not just grammar, there are exceptions and irregular verbs. 
+  <p> All infinitives end in either -AR -IR or -ER. These endings are the ones to focus on because they'll be the part that changes in a conjugation. Drop these endings and add the appropriate endings.The -ER and -IR ending changes are usually the same or similar. 
+  <body style="background-color:pale yellow;"> 
+    <small><i>For example: the infinitive ESCRIBIR. If I wanted to say "we writes essays" it would be "escribimos ensayos". The ending of -IR is replaced by -IMOS. For example: Escribir and Comer, in the we pronoun would change to escribimos and comimos.</i> </small> 
+  </body>
+    However, as with most rules, not just grammar, there are exceptions and irregular verbs. 
 </p>
   
   <h3> Conjugation Tables</h3>

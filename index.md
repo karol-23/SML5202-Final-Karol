@@ -35,7 +35,7 @@
 <h1> <b>Introduction</b> </h1> 
 <h2> Why study a language with us?</h2>
 
-<p> At <b> Speedy Spanish </b> we believe that in the face of globalisation and advanced technology, it is becoming more and more imperative to understand one or more languages. Not only does it increase job prospects but it also broadens your social horizons. The language learning process is full of surprises. One might not expect it but learning a language is not just about grammar rules and how good your pronounciation is. It is also about the country's history, the culture, the gastronomy and it's people. This website is aimed at beginners and intermediate Spanish language learners.  </p>
+<p> At <b> Snappin' Spanish </b> we believe that in the face of globalisation and advanced technology, it is becoming more and more imperative to understand one or more languages. Not only does it increase job prospects but it also broadens your social horizons. The language learning process is full of surprises. One might not expect it but learning a language is not just about grammar rules and how good your pronounciation is. It is also about the country's history, the culture, the gastronomy and it's people. This website is aimed at beginners and intermediate Spanish language learners. You'll find a broad range of topics all meant to inspire you in some way in your learning experience. Watch the video below to find out the secret to learning a new language. </p>
 
  
 <iframe width="1000" height="401" src="https://www.youtube.com/embed/o_XVt5rdpFY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -44,15 +44,15 @@
 <h2> <b>About The Creator </b> </h2>
 <img src='images/karol.jpg' alt='karol.jpg' width="450" height="450" >
 
-<p> <i> My name is Karol Visentin Lemes and I created this website with the aims of not only teaching you Spanish but to hopefully spark a love for language learning. As a language learner myself, I created this website to help but it most definitely isn't the be all and end all of Spanish. Language is learnt through experience so if there is one piece of advice I could give, it would be to take every opportunity you get to practise the language you're learning no matter how scary it may seem!
+<p> <i> My name is Karol Visentin Lemes and I created this website with the aims of not only teaching you Spanish but to hopefully spark a love for language learning. If you watched the video above you'll know that the best way to learn is to love what you learn. As a language learner myself, I created this website to help but it most definitely isn't the be all and end all of Spanish. Language is learnt through experience so if there is one piece of advice I could give, it would be to take every opportunity you get to practise the language you're learning no matter how scary it may seem!
    <p> Here are three facts about me:</p>
    <ol>
     <li> I am multilingual. I speak Portuguese, Spanish and English. </li>
-    <li> My favourite 'untranslatable' word is the German word <b>Schadenfreude</b> which means to receive enjoyment from other people's misery.  </li>
-    <li> I'm learning Japanese to be able to watch anime without the subtitles and eventually go to Japan. </li>
+    <li> My favourite 'untranslatable' word is the German word <b>Schadenfreude</b> which means to receive enjoyment from other people's misery.* In the nicest way possible; it was funny to me.  </li>
+    <li> I'm learning Japanese to be able to watch anime without the subtitles and eventually go to Japan, specifically Tokyo. </li>
  </ol> </i>
     
- <p> A few of my favourite language learning websites are <a href="https://www.linguee.com/english-spanish" target="_blank">Linguee</a> and <a href="https://www.wordreference.com/es/translation.asp" target="_blank">WordReference</a>  </p>
+ <p> A few of my favourite language learning websites are <a href="https://www.linguee.com/english-spanish" target="_blank">Linguee</a> and <a href="https://www.wordreference.com/es/translation.asp" target="_blank">WordReference</a>. This is because they both provide a wide range of translations. Linguee gives you examples of the word you look up in actual sentences to verify if that is contextually the word that you need. Whereas Wordreference not only translates words whilst also giving all of the synonyms, it also conjugates. Both are extremely helpful.  </p>
 
 
 

@@ -9,8 +9,8 @@ lang: en
 # --- Only change these if you change the name of your .md files!! --- #
 # --- And, only change the names of the HTML files e.g. page2.html --- #
 github:
-  page1: index.html
-  page2: page2.html
-  page3: page3.html
-  page4: page4.html
-  page5: page5.html
+  page1: Home.html
+  page2: Grammar.html
+  page3: Culture.html
+  page4: History.html
+  page5: Numbers.html

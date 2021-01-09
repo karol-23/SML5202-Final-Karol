@@ -1,7 +1,7 @@
-<h1> Tongue Twisters<h1>
+<h1> Tongue Twisters</h1>
   
-<p> <small>What better way to practise speaking and improve your pronounciation other than tongue twisters? Tongue twisters are a series of usually alliterative sounds or words that are difficult to pronounce correctly especially when spoken quickly. <i>For example: She sells seashells on the sea shore. </i> </p>
-<p> Try the follow Spanish tongue twisters:</small></p>
+<p> What better way to practise speaking and improve your pronounciation other than tongue twisters? Tongue twisters are a series of usually alliterative sounds or words that are difficult to pronounce correctly especially when spoken quickly. <i>For example: She sells seashells on the sea shore. </i> </p>
+<p> Try the follow Spanish tongue twisters </p>
   
  <br> 
   <p style="margin: auto; width: 50%; border: 2px solid red;  padding: 10px;">

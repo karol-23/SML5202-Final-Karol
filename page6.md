@@ -19,3 +19,5 @@
 <p style="margin: auto; width: 50%; border: 2px solid red;  padding: 10px;">
 <img src="images/erre.PNG" alt="erre.PNG" style="width:100%;">
 </p>
+<br>
+<p><small> All the images above were created by the Karol S. V. Lemes</small></p>

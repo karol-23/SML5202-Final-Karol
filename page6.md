@@ -20,4 +20,4 @@
 <img src="images/erre.PNG" alt="erre.PNG" style="width:100%;">
 </p>
 <br>
-<p><small> All the images above were created by the Karol S. V. Lemes</small></p>
+<p style="text-align:center;"> <small>  All the images above were created by the Karol S. V. Lemes</small></p>

@@ -54,9 +54,9 @@
     <li> My favourite 'untranslatable' word is the German word <b>Schadenfreude</b> which means to receive enjoyment from other people's misery.* In the nicest way possible; it was funny to me.  </li>
     <li> I'm learning Japanese to be able to watch anime without the subtitles and eventually go to Japan, specifically Tokyo. </li>
  </ol> </i>
-    
+    <br>
  <p> A few of my favourite language learning websites are <a href="https://www.linguee.com/english-spanish" target="_blank">Linguee</a> and <a href="https://www.wordreference.com/es/translation.asp" target="_blank">WordReference</a>. This is because they both provide a wide range of translations. Linguee gives you examples of the word you look up in actual sentences to verify if that is contextually the word that you need. Whereas Wordreference not only translates words whilst also giving all of the synonyms, it also conjugates. Both are extremely helpful.  </p>
-
+<br>
 <p style= "text-align: centre"> <small> The image of the creator above belongs to Karol S. V. Lemes. The images in the gallery above are not our domain.</small></p>
 
 

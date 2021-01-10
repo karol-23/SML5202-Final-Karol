@@ -9,7 +9,7 @@
 <p>There are many Spanish-speaking countries in the world, mainly in South and Central America, and over 450 million Spanish speakers. As such Spanish culture is different to, for example, Dominican culture. Of course there are similarities but it is not all the same and this applies to the actual language too. Think of it as comparing French culture and language to Congolese French culture and language. There are obvious similarities but many differences too. For this reason, through this site I highlight that I am teaching about Spanish from Spain and not else where. However, there should be a celebration of diversity, the uniqueness or sometimes lack there-of is beautiful, hence why on this page other Spanish-speaking cultures will be mentioned. <p>
 
 <h3> Greetings & Etiquette </h3>
-<p style="margin: auto; width: 50%; border: 0px solid red;  padding: 10px;">
+<p style="margin: auto; width: 80%; border: 0px solid red;  padding: 10px;">
 <iframe width="990" height="455" src="https://www.youtube.com/embed/CZMwicRL3ZM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </p>
 

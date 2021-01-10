@@ -5,7 +5,7 @@
 
 <p> This is a start to understanding Spanish speakers from Spain, watch the video below of a brief history of Spain and fill in the gaps of the activity below.</p>
 <br>
-<p style="margin: auto; width: 70%; border: 0px solid red;  padding: 10px;">
+<p style="margin: auto; width: 60%; border: 0px solid red;  padding: 10px;">
 <iframe width="1000" height="480" src="https://www.youtube.com/embed/nPcfZLaMoAo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </P> 
 
@@ -16,3 +16,5 @@
 <p style="margin: auto; width: 50%; border: 2px solid red;  padding: 10px;">
 <img src="images/funfact.png" alt="funfact.png" style="width:100%;">
 </p>
+<p style= "text-align: centre"> <small> Fact acquired from <a href="https://www.factretriever.com/spain-facts" target="_blank">Fact Retriever</a></small> </p>
+<br>

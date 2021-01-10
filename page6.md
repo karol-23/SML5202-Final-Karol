@@ -7,6 +7,11 @@
   <p style="margin: auto; width: 50%; border: 2px solid red;  padding: 10px;">
 <img src="images/plancha.PNG" alt="plancha.PNG" style="width:100%;">
 </p>
+<audio controls>
+  <source src="Pancha plancha (online-audio-converter.com).mp3" type="Pancha plancha (online-audio-converter.com).mp3">
+  <source src="Pancha plancha (online-audio-converter.com).mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 <br>
 <p style="margin: auto; width: 50%; border: 2px solid red;  padding: 10px;">
 <img src="images/tigres.PNG" alt="tigres.PNG" style="width:100%;">

@@ -39,6 +39,8 @@
 
 <p> At <b> Snappin' Spanish </b> we believe that in the face of globalisation and advanced technology, it is becoming more and more imperative to understand one or more languages. Not only does it increase job prospects but it also broadens your social horizons. The language learning process is full of surprises. One might not expect it but learning a language is not just about grammar rules and how good your pronounciation is. It is also about the country's history, the culture, the gastronomy and it's people. This website is aimed at beginners and intermediate Spanish language learners. You'll find a broad range of topics all meant to inspire you in some way in your learning experience. Watch the video above to find out the secret to learning a new language. </p>
 
+<p> There is no right way to going about this website. You have complete autonomy over what you do, watch, listen and read. We recommend writing down anything new you learn on a piece of paper or in an online document as this website is meant to be used as a tool rather than one complete teacher.</p>
+
 <br>
 
  
@@ -55,6 +57,6 @@
     
  <p> A few of my favourite language learning websites are <a href="https://www.linguee.com/english-spanish" target="_blank">Linguee</a> and <a href="https://www.wordreference.com/es/translation.asp" target="_blank">WordReference</a>. This is because they both provide a wide range of translations. Linguee gives you examples of the word you look up in actual sentences to verify if that is contextually the word that you need. Whereas Wordreference not only translates words whilst also giving all of the synonyms, it also conjugates. Both are extremely helpful.  </p>
 
-
+<p style= "text-align: centre"> <small> The image of the creator above belongs to Karol S. V. Lemes. The images in the gallery above are not our domain.</small></p>
 
 

@@ -5,7 +5,7 @@
 
 <p> This is a start to understanding Spanish speakers from Spain, watch the video below of a brief history of Spain and fill in the gaps of the activity below.</p>
 <br>
-<p style= "text-align: centre">
+<p style="margin: auto; width: 70%; border: 0px solid red;  padding: 10px;">
 <iframe width="1000" height="480" src="https://www.youtube.com/embed/nPcfZLaMoAo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </P> 
 
@@ -13,3 +13,6 @@
 <iframe src="https://h5p.org/h5p/embed/1086230" width="999" height="1732" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 </p>
 
+<p style="margin: auto; width: 50%; border: 2px solid red;  padding: 10px;">
+<img src="images/funfact.png" alt="funfact.png" style="width:100%;">
+</p>

@@ -1,7 +1,7 @@
 <h1>Culture </h1>
 <p>The sociology definition of culture is "the ideas, customs and social behaviour of a particular or society" as per Oxford Languages. What does culture mean to you? </p>
 <br>
-<p style="margin: auto; width: 30%; border: 0px solid red;  padding: 10px;">
+<p style="margin: auto; width: 90%; border: 0px solid red;  padding: 10px;">
 <iframe src="https://h5p.org/h5p/embed/1087433" width="990" height="621" frameborder="0" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 </p>
 
@@ -26,7 +26,7 @@
           
   <br>
 <h3> Gastronomy </h3>
-<p style="margin: auto; width: 30%; border: 2px solid red;  padding: 10px;">
+<p style="margin: auto; width: 90%; border: 2px solid red;  padding: 10px;">
 <iframe src="https://h5p.org/h5p/embed/1087174" width="1090" height="830" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <p/>
 <p> </p>

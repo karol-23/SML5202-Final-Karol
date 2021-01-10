@@ -33,16 +33,17 @@
 </div>
  
 <h1> <b>Introduction</b> </h1> 
+
+<iframe width="1000" height="401" src="https://www.youtube.com/embed/o_XVt5rdpFY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h2> Why study a language with us?</h2>
 
-<p> At <b> Snappin' Spanish </b> we believe that in the face of globalisation and advanced technology, it is becoming more and more imperative to understand one or more languages. Not only does it increase job prospects but it also broadens your social horizons. The language learning process is full of surprises. One might not expect it but learning a language is not just about grammar rules and how good your pronounciation is. It is also about the country's history, the culture, the gastronomy and it's people. This website is aimed at beginners and intermediate Spanish language learners. You'll find a broad range of topics all meant to inspire you in some way in your learning experience. Watch the video below to find out the secret to learning a new language. </p>
+<p> At <b> Snappin' Spanish </b> we believe that in the face of globalisation and advanced technology, it is becoming more and more imperative to understand one or more languages. Not only does it increase job prospects but it also broadens your social horizons. The language learning process is full of surprises. One might not expect it but learning a language is not just about grammar rules and how good your pronounciation is. It is also about the country's history, the culture, the gastronomy and it's people. This website is aimed at beginners and intermediate Spanish language learners. You'll find a broad range of topics all meant to inspire you in some way in your learning experience. Watch the video above to find out the secret to learning a new language. </p>
 
- 
-<iframe width="1000" height="401" src="https://www.youtube.com/embed/o_XVt5rdpFY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 
  
 <h2> <b>About The Creator </b> </h2>
-<img src='images/karol.jpg' alt='karol.jpg' width="450" height="450" >
+<p style="text-align: centre"> <img src='images/karol.jpg' alt='karol.jpg' width="450" height="450" > </p>
 
 <p> <i> My name is Karol Visentin Lemes and I created this website with the aims of not only teaching you Spanish but to hopefully spark a love for language learning. If you watched the video above you'll know that the best way to learn is to love what you learn. As a language learner myself, I created this website to help but it most definitely isn't the be all and end all of Spanish. Language is learnt through experience so if there is one piece of advice I could give, it would be to take every opportunity you get to practise the language you're learning no matter how scary it may seem!
    <p> Here are three facts about me:</p>

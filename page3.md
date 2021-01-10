@@ -6,10 +6,19 @@
 <br>
 <p>There are many Spanish-speaking countries in the world, mainly in South and Central America, and over 450 million Spanish speakers. As such Spanish culture is different to, for example, Dominican culture. Of course there are similarities but it is not all the same and this applies to the actual language too. Think of it as comparing French culture and language to Congolese French culture and language. There are obvious similarities but many differences too. For this reason, through this site I highlight that I am teaching about Spanish from Spain and not else where. However, there should be a celebration of diversity, the uniqueness or sometimes lack there-of is beautiful, hence why on this page other Spanish-speaking cultures will be mentioned. <p>
 
-<h3> Greetings </h3>
+<h3> Greetings & Etiquette </h3>
 <iframe width="990" height="455" src="https://www.youtube.com/embed/CZMwicRL3ZM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 <p><strong> How many different ways of saying hi did you identify? Were you surprised?</strong></p>
-<p>To start, considering the video's title, what is the difference between 'Hispanic' and 'Latino'?
+<p>To start, considering the video's title, what is the difference between 'Hispanic' and 'Latino'? Hispanic refers to characteristics or derived from Spain or Spanish Sspeaking countries. Whereas Latino refers to a person who is from Latin America. For instance, this means someone from Spain is Hispanic but not Latino; someone from Brazil is Latino but not Hispanic and someone from Colombia is both Latino and Hispanic.</p>
+<p>Unlike its' European counter parts, Spain is very warm and friendly. A lot of its etiquette is based around hospitablity. </p>
+  <ul>
+    <li> When greeting a friend, after the initial hello's, it is custom to hug and lightly kiss cheek to cheek starting from the left. 
+    <li> A firm handshake and smile with eye-contact is the appropriate formal greeting.
+    <li>When walking in to a store of any kind, it is customary to say hello and goodbye when leaving. The same goes for elevators, although, these customs are more upkept by smaller towns than bigger cities like the capital. 
+    <li> Tipping is common but not expected 
+    <li> Punctuality isn't highly important (other than serious comittments)
+     </ul>     
+          
   <br>
 <h3> Gastronomy </h3>
 <p> </p>

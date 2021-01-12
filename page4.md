@@ -13,8 +13,9 @@
 <iframe src="https://h5p.org/h5p/embed/1086230" width="999" height="1732" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 </p>
 
+<br>
 <p style="margin: auto; width: 50%; border: 2px solid red;  padding: 10px;">
 <img src="images/funfact.png" alt="funfact.png" style="width:100%;">
 </p>
-<p style= "text-align: centre"> <small> Fact acquired from <a href="https://www.factretriever.com/spain-facts" target="_blank">Fact Retriever</a></small> </p>
+<p style= "text-align:centre"> <small> Fact acquired from <a href="https://www.factretriever.com/spain-facts" target="_blank">Fact Retriever</a></small> </p>
 <br>

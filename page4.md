@@ -14,7 +14,7 @@
 </p>
 
 <br>
-<p style="margin: auto; width: 50%; border: 2px solid red;  padding: 10px;">
+<p style="margin: auto; width: 40%; border: 2px solid red;  padding: 10px;">
 <img src="images/funfact.png" alt="funfact.png" style="width:100%;">
 </p>
 <p style= "text-align:centre"> <small> Fact acquired from <a href="https://www.factretriever.com/spain-facts" target="_blank">Fact Retriever</a></small> </p>

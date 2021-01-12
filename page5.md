@@ -1,13 +1,38 @@
 <h1> Numbers</h1>
 <p>Learning the numbers is crucial not just in spanish but in all languages especially considering how our whole society, including many others, run on numbers. From your age, to your birth date to your credit score and much more. Numbers are important for many conversations. Therefore, this page is dedicated to teaching and reinforcing the Spanish numbers.</p>
 <p> In general numbers in Spanish are easy to learn in comparison to other languages, although there are some exceptions as to how they are formed. Let's start with the basics; Learn the numbers for 1-15.</p>
+<br>
+<p> <em> Here is an audio of the numbers in Spanish from 1-10 and then 11-20:</em> </p>
+<p style="margin: auto; width: 50%; border: 2px solid red;  padding: 10px;">
+<audio controls>
+  <source src="HSP 1-10 (online-audio-converter.com).mp3" type="HSP 1-10 (online-audio-converter.com).mp3">
+  <source src="HSP 1-10 (online-audio-converter.com).mp3" type="audio/mpeg">
+</audio>
+  </p>
+  <p style="margin: auto; width: 50%; border: 2px solid red;  padding: 10px;">
+<audio controls>
+  <source src="HSP 11-20 (online-audio-converter.com).mp3" type="HSP 11-20 (online-audio-converter.com).mp3">
+  <source src="HSP 11-20 (online-audio-converter.com).mp3" type="audio/mpeg">
+</audio>
+  </p>
+  
+ <br>
   
 <p>There's no real pattern, you just have to learn them: uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez, once, doce, trece, catorce, quince.
 Learn the numbers for the multiples of ten: veinte, treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa. A few tips to help you remember:</p>
 <ol>
  <li>Other than veinte, they all end in -enta
   <li>Other than veinte (again), they all have a clear relationship with the related smaller number: cuatro <-> cuarenta, ocho <-> ochenta, etc.
-    </ol>
+
+<p><em> Here is an audio of the numbers in Spanish in 10s to 100:</em> </p>
+<p style="margin: auto; width: 50%; border: 2px solid red;  padding: 10px;">
+<audio controls>
+  <source src="HSP 1-10 (online-audio-converter.com).mp3" type="HSP 1-10 (online-audio-converter.com).mp3">
+  <source src="HSP 1-10 (online-audio-converter.com).mp3" type="audio/mpeg">
+</audio>
+  </p>
+
+<br>
 <br>
     
 <p>Then, you can fill in the gaps with a simple formula:</p>

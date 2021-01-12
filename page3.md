@@ -12,11 +12,11 @@
 <iframe width="1090" height="550" src="https://www.youtube.com/embed/CZMwicRL3ZM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 
-<p><strong> How many different ways of saying hi did you identify? Were you surprised?</strong></p>
+<p><em> How many different ways of saying 'hi' did you identify? Were you surprised?</em></p>
 <p>To start, considering the video's title, what is the difference between 'Hispanic' and 'Latino'? Hispanic refers to characteristics or derived from Spain or Spanish Sspeaking countries. Whereas Latino refers to a person who is from Latin America. For instance, this means someone from Spain is Hispanic but not Latino; someone from Brazil is Latino but not Hispanic and someone from Colombia is both Latino and Hispanic.</p>
 <p>Unlike its' European counter parts, Spain is very warm and friendly. A lot of its etiquette is based around hospitablity. </p>
   <ul>
-    <li> When greeting a friend, after the initial hello's, it is custom to hug and lightly kiss cheek to cheek starting from the left. 
+    <li> When greeting informally, after the initial hello's, it is custom to hug and lightly kiss cheek to cheek starting from the left. 
     <li> A firm handshake and smile with eye-contact is the appropriate formal greeting.
     <li>When walking in to a store of any kind, it is customary to say hello and goodbye when leaving. The same goes for elevators, although, these customs are more upkept by smaller towns than bigger cities like the capital. 
     <li> Tipping is common but not expected 
@@ -25,10 +25,18 @@
           
   <br>
 <h3> Gastronomy </h3>
+<p> If you've visited the history page, you will know that Spain has Arab and Jewish influence alongside Roman roots. This cultural diversity affects it's cuisine too. There are many delicious traditional dishes but, perhaps the most well known, is the <em>paella</em>. It is originally a Valencian dish. Of course there are also tapas! Another mouth watering traditional Spanish dish is the <em> tortilla Española</em> which unlike the imagine of a thin crunchy bread-like food, it is actually a thick Spanish omelette made with egg and potatoes. Simply divine! Other traditional Spanish dishes include:</p>
+<ul>
+  <li> Gambas al Ajilo - an appetizer and tapas dish with garlic shrimps that have been fried with olive oil 
+  <li> Albondigas - Spain's version of meatballs. They are usually served in a bowl with a spicy tomato sauce.
+  <li>Jamón Serrano and Iberico - Cured ham!
+  <li> Gazpacho - Essentially, it’s a cold tomato soup with mixed raw vegetables.
+    <p><em> Click the exclamation marks in the map below to see traditional regional dishes in Spain! </em></p>
+          
 <p style="margin: auto; width: 70%; border: 2px solid red;  padding: 10px;">
 <iframe src="https://h5p.org/h5p/embed/1087174" width="1090" height="830" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <p/>
-<p> </p>
+
 <br>
 <h3> Traditions</h3>
 <p> Siesta. La tomatina. Dia de los muertos.  </p>

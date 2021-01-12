@@ -19,7 +19,7 @@ Learn the numbers for the multiples of ten: veinte, treinta, cuarenta, cincuenta
     
 <br>
 <br>
-<p> <em>Try this fun word search!</em> </p.
+<p> <em>Try this fun word search!</em> </p>
 <p style="margin: auto; width: 70%; border: 2px solid red;  padding: 10px;">
 <iframe src="https://h5p.org/h5p/embed/1087029" width="680" height="700" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
   </p>
